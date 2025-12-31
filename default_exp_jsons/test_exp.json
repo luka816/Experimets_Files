@@ -1,0 +1,538 @@
+{
+    "name": "default (test) Experiment",
+    "tests": [
+        {
+            "name": "Rectangle - Filled",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#FF0000",
+                "shape": "rectangle",
+                "fillMode": "fill",
+                "strokeWidth": 0,
+                "borderRadius": 0,
+                "width": 150,
+                "height": 100,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Rectangle - Outline",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#FF0000",
+                "shape": "rectangle",
+                "fillMode": "outline",
+                "strokeWidth": 5,
+                "borderRadius": 0,
+                "width": 150,
+                "height": 100,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Rectangle - Outline Rounded",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#FF0000",
+                "shape": "rectangle",
+                "fillMode": "outline",
+                "strokeWidth": 5,
+                "borderRadius": 20,
+                "width": 150,
+                "height": 100,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Circle - Filled",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#00FF00",
+                "shape": "circle",
+                "fillMode": "fill",
+                "strokeWidth": 0,
+                "borderRadius": 0,
+                "width": 120,
+                "height": 120,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Circle - Outline",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#00FF00",
+                "shape": "circle",
+                "fillMode": "outline",
+                "strokeWidth": 4,
+                "borderRadius": 0,
+                "width": 120,
+                "height": 120,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Ellipse - Filled",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#00FFFF",
+                "shape": "ellipse",
+                "fillMode": "fill",
+                "strokeWidth": 0,
+                "borderRadius": 0,
+                "width": 150,
+                "height": 100,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Ellipse - Outline",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#00FFFF",
+                "shape": "ellipse",
+                "fillMode": "outline",
+                "strokeWidth": 3,
+                "borderRadius": 0,
+                "width": 150,
+                "height": 100,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Triangle - Filled",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#0000FF",
+                "shape": "triangle",
+                "fillMode": "fill",
+                "strokeWidth": 2,
+                "borderRadius": 0,
+                "width": 100,
+                "height": 150,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Triangle - Outline",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#0000FF",
+                "shape": "triangle",
+                "fillMode": "outline",
+                "strokeWidth": 2,
+                "borderRadius": 0,
+                "width": 100,
+                "height": 150,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Star - Filled",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#FFD700",
+                "shape": "star",
+                "fillMode": "fill",
+                "strokeWidth": 2,
+                "borderRadius": 0,
+                "width": 150,
+                "height": 150,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Star - Outline",
+            "type": "visual",
+            "params": {
+                "text": "",
+                "color": "#FFD700",
+                "shape": "star",
+                "fillMode": "outline",
+                "strokeWidth": 3,
+                "borderRadius": 0,
+                "width": 150,
+                "height": 150,
+                "delay": 500,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Text - Hello",
+            "type": "visual",
+            "params": {
+                "text": "Hello",
+                "color": "#000000",
+                "shape": "rectangle",
+                "fillMode": "fill",
+                "strokeWidth": 2,
+                "borderRadius": 0,
+                "width": 200,
+                "height": 50,
+                "delay": 300,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Text - Circle Label",
+            "type": "visual",
+            "params": {
+                "text": "Circle Label",
+                "color": "#00FF00",
+                "shape": "rectangle",
+                "fillMode": "fill",
+                "strokeWidth": 2,
+                "borderRadius": 0,
+                "width": 120,
+                "height": 120,
+                "delay": 300,
+                "duration": 1200,
+                "position": "left",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Image - Center",
+            "type": "image",
+            "params": {
+                "imageSrc": "static/images/img1.png",
+                "width": 200,
+                "height": 200,
+                "delay": 500,
+                "duration": 1500,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Image - Left",
+            "type": "image",
+            "params": {
+                "imageSrc": "static/images/img1.png",
+                "width": 150,
+                "height": 150,
+                "delay": 400,
+                "duration": 1200,
+                "position": "left",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Image - Loop",
+            "type": "image",
+            "params": {
+                "imageSrc": "static/images/img1.png",
+                "width": 100,
+                "height": 100,
+                "delay": 300,
+                "duration": 1000,
+                "position": "right",
+                "x": 0,
+                "y": 0,
+                "loop": {
+                    "enabled": true,
+                    "group": "images",
+                    "repeat": 3,
+                    "interDelay": 500,
+                    "randomize": true
+                }
+            }
+        },
+        {
+            "name": "Word List - Simple",
+            "type": "wordList",
+            "params": {
+                "fileUrl": "/PsychoExp/static/json/words.json",
+                "color": "#000000",
+                "fontSize": 48,
+                "delay": 300,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "randomize": false,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Word List - Random Loop",
+            "type": "wordList",
+            "params": {
+                "fileUrl": "/PsychoExp//static/json/words.json",
+                "color": "#FF00FF",
+                "fontSize": 36,
+                "delay": 400,
+                "duration": 1000,
+                "position": "top",
+                "x": 0,
+                "y": 0,
+                "randomize": true,
+                "loop": {
+                    "enabled": true,
+                    "group": "wordLoop",
+                    "repeat": 2,
+                    "interDelay": 500,
+                    "randomize": true
+                }
+            }
+        },
+        {
+            "name": "Image List - Center Random",
+            "type": "imageList",
+            "params": {
+                "folderUrl": "/PsychoExp/static/json/images.json",
+                "width": 200,
+                "height": 200,
+                "delay": 300,
+                "duration": 1000,
+                "position": "center",
+                "x": 0,
+                "y": 0,
+                "randomize": true,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Image List - Top Fixed",
+            "type": "imageList",
+            "params": {
+                "folderUrl": "/PsychoExp/static/json/images.json",
+                "width": 150,
+                "height": 150,
+                "delay": 400,
+                "duration": 1200,
+                "position": "top",
+                "x": 0,
+                "y": 0,
+                "randomize": false,
+                "loop": {
+                    "enabled": false,
+                    "group": "",
+                    "repeat": 1,
+                    "interDelay": 0,
+                    "randomize": false
+                }
+            }
+        },
+        {
+            "name": "Image List - Left Loop",
+            "type": "imageList",
+            "params": {
+                "folderUrl": "/PsychoExp/static/json/images.json",
+                "width": 100,
+                "height": 100,
+                "delay": 200,
+                "duration": 800,
+                "position": "left",
+                "x": 0,
+                "y": 0,
+                "randomize": true,
+                "loop": {
+                    "enabled": true,
+                    "group": "imageLoop1",
+                    "repeat": 2,
+                    "interDelay": 400,
+                    "randomize": true
+                }
+            }
+        },
+        {
+            "name": "Image List - Right Loop Fixed",
+            "type": "imageList",
+            "params": {
+                "folderUrl": "/PsychoExp/static/json/images.json",
+                "width": 100,
+                "height": 100,
+                "delay": 250,
+                "duration": 900,
+                "position": "right",
+                "x": 0,
+                "y": 0,
+                "randomize": false,
+                "loop": {
+                    "enabled": true,
+                    "group": "imageLoop2",
+                    "repeat": 3,
+                    "interDelay": 500,
+                    "randomize": false
+                }
+            }
+        }
+    ]
+}
