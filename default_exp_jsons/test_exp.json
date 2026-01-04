@@ -1,5 +1,11 @@
 {
     "name": "default (test) Experiment",
+    "display": {
+            "viewingDistanceCm": 40,
+            "screenWidthCm": 35,
+            "screenHeightCm": 30,
+            "eccentricityDeg": 7
+        }
     "tests": [
         {
             "name": "Rectangle - Filled",
